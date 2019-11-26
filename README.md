@@ -1,16 +1,13 @@
-# Flutter_shoes
+#Flutter - Animação e design de interface do usuário do aplicativo de loja de sapatos.
 
-Projeto simples de uma loja de tênis, Design & Animation.
+Projeto para estudo, loja de tênis, UI Design & Animation. 
 
-## Getting Started
+#Sobre
+Animação Flutter, Hero, Fade, Stack, Positioned, BoxShadow, TextField, Gradient, LinearGradient e assim por diante. 
 
-This project is a starting point for a Flutter application.
+#Video Aula - Canal @Afgprogrammer
+[Youtube Video](https://youtu.be/lrMCjIYpnjg)
 
-A few resources to get you started if this is your first Flutter project:
+## ScreenShot
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="assets/screenshot/one.png" height="500em" />&nbsp;<img src="assets/screenshot/two.png" height="500em" />&nbsp;<img src="assets/screenshot/three.png" height="500em" />&nbsp;<img src="assets/screenshot/four.png" height="500em" />
